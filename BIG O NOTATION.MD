@@ -1,6 +1,10 @@
 
 # BIG O NOTATION
  
+ First of all ,Asymptotic Notation is languages that allow us to analyze an algorithm's running time by identifying its behavior as the input size for the algorithm increases.
+ Asymptotic notation describes the algorithm efficiency and performance in a meaningful way. 
+
+ 
  Big O notation is a mathematical notation that describe 
  limited behaviour of a function. In computer science , 
  big O notation used for calculate the run time or space 
@@ -23,5 +27,3 @@ Big O Notation generally classified as :
 - O(log n) - Logarithmic => Holy grail for search/sort algorithm.They are usually the most efficient when dealing with large collection. This algorithm never look for all input , but it eliminate large amount of input of each step. The step depend more from how complicated the algorithm itself . Example : quickSort , mergeSort.
 - O(n log n) - Linearithmic => Big problem broken into small subproblem , solving them independenly and combine them.The step more depend on the complexity of the problem . Example : mergeSort.
 - O(2^n) - Exponential => Should be avoid , the step depend on the algorithm and double it for each step of the algorithm. Example : Recursive
-
-
