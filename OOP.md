@@ -11,5 +11,5 @@ OOP is programming paradigm that relies on the concepts of class and object. It 
 
 - Inheritance : Inherit data and method of the parent class.The benefit of inheritance is we can reuse the code that save space and memory code. Inheritance avoids duplicity and data redundancy , and No changes to be done in all base classes; just do changes in parent class only.
 - Encapsulation : Contain a data in object and exposing only selected data . Encapsulation add security and show only selected data. The code hidden in class and that prevent public access the data.
-- Abstraction : Using simple tools ( class ) to represent complexity . The benefit is simple for UI , Complex code hidden , Security , Code update rarely change the abstraction
+- Abstraction : Using simple tools ( class ) to represent complexity . The benefit is simple for UI , Complex code hidden , Security , Code update rarely change the abstraction. For simple term , abstraction hid implementation vs encapsulation hit data.
 - Polymorphism : different method can do the same task. There is two ways that commonly use in Polymorphism , Function overriding and Function Overloading . Function OVERRIDING mean change the behaviour of parent function with same function name , and function OVERLOADING can have different result depend on number of parameter that passed in.
