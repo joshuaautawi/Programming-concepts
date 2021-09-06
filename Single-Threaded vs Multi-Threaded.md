@@ -2,6 +2,7 @@
 # SINGLE THREADED VS MULTI THREADED
 
 Thread means flow of instruction of executioning the apps.
+Threaded means how many block of code we can run simultaneously in our computer.
 
 
 Single-threaded means one command is processess at a time.
